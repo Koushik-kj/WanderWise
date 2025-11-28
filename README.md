@@ -1,7 +1,7 @@
 # WanderWise - Your One-Stop Travel Companion
 
 ### Authors:
-[ARUN P C]
+[KOUSHIK K J]
 
 ---
 
